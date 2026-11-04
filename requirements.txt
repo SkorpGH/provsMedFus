@@ -1,7 +1,7 @@
 bs4
 dateparser
 python-dotenv
-fastapi
+fastapi<0.137.0
 uvicorn
 tzdata
 lxml
@@ -22,3 +22,4 @@ anyio
 telethon
 av
 aiohttp
+cryptography
